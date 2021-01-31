@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hi, I'm Ghost_chu. Working around Minecraft and Bukkit plugins stuff. Currently maintained project QuickShop but also lots of my *side project* lol.  
 
-You can hit me on these website:  
+You can hit me on those places:  
 - [SpigotMC](https://www.spigotmc.org/members/ghost_chu.107180/)
 - [Github](https://github.com/Ghost-chu)
 - [BukkitDev](https://dev.bukkit.org/members/ghost_chu)
@@ -10,17 +10,4 @@ You can hit me on these website:
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Ghost-chu&show_icons=true)
-<!--
-**Ghost-chu/Ghost-chu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
